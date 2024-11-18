@@ -179,6 +179,8 @@ This is a junction table that associates products with tags, enabling many-to-ma
 
 This API provides CRUD operations for managing products in the system. It supports creating, updating, deleting, and retrieving products, as well as filtering products based on various parameters.
 
+#### **Service url: `localhost:8080`**
+
 ### **1.  Create Product**
 
 **POST** `/api/product/create`
